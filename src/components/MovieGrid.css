@@ -1,0 +1,13 @@
+
+.movie_grid_wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .movie_grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1.5em;
+    margin: 0 0 1em 0;
+  }

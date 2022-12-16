@@ -1,0 +1,12 @@
+.section_header_title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0.7em 0;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+}
+@media only screen and (max-width: 476px) {
+  .section_header_title {
+    font-size: 5vw;
+  }
+}
